@@ -1,0 +1,9 @@
+name: tech-qa
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - openpyxl
+  - matplotlib
+  - reportlab
