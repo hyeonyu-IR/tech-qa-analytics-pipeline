@@ -1,0 +1,309 @@
+Procedure,Dept,Technologist,Appt Dept,Reason,Comments,Signing Physicians,User
+CT Chest Wo Contrast,IMG CT ICB HUFF 1225,"Starcher, Kimberly",IMG CT BURLINGTON IMAGING CENTER,Rad QA (P) Incorrect MPR obliquities or post-processing including image data not sent to specialty software,MIP series is not MIP- please fix this is a chronic issue at Burlington,"GRUDEN, JAMES F","GRUDEN, JAMES F [305089]"
+CT Chest Wo Contrast,IMG CT ICB HUFF 1225,"Starcher, Kimberly",IMG CT BURLINGTON IMAGING CENTER,Tech Reviewed (F) Incorrect Imaging Protocol,"The protocol and images were reviewed with the technologist and the thin mip window is now accurate...window width 500/230 thin mip recon.
+
+
+
+
+
+
+Rad
+AGAIN BURLINGTON SCAN THESE MIPS ARE NOT MIPS and no one seems to fix it","GRUDEN, JAMES F","STEWARD, YOLANDA [31758]"
+CT Sinus Wo Contrast,IMG CT HBR,"Riffle, Wesley W",IMG CT HBR,Tech Reviewed (F) Incorrect Imaging Protocol,"
+
+Technologist encouraged to review ALL images in Sectra, for accuracy.
+
+
+
+RAD
+Coronal reformats were not sent.  Two sets of sagittal images.  Performed MPR to obtain limited coronal images for interpretation.","JEWELLS, VALERIE LYNN","STEWARD, YOLANDA [31758]"
+CTA Abdomen W Wo Contrast,IMG CT HBR,"Kirk, Heather H",IMG CT HBR,Tech Reviewed (T) Other limitation not addressed above,"Grainy images
+
+The technologist used the appropriate technical parameters per the written protocol. The 0.6 slice reconstructions that are requested do display more image noise- caw","BURKE, CHARLES THOMAS","WATSON, CHRISTOPHER A [210821]"
+CT Thoracic Spine Wo Contrast,IMG CT UNCNH,"Williams, Thomasina",IMG CT UNC NEUROSCIENCE HOSPITAL,Tech Reviewed (G) Suboptimal centering and FOV,"*Discussed with per diem employee. -LNH.
+
+Did not include entire thoracic spine on CT thoracic. Also included entire cervical spine","MCCULLAGH, KASSIE LYN","HOOD, LATOSHA N [18728]"
+CT Abdomen Pelvis W Contrast,IMG CT UNCNH,"Medlin, Kenneth",IMG CT UNC NEUROSCIENCE HOSPITAL,Tech Reviewed (G) Suboptimal centering and FOV,"*Discussed with technologist. Technologist mentioned that the right hemidiaphragm was high and wanted to ensure they included all anatomy initially versus repeating causing additional exposure. - LNH.
+
+Too high field of view","FINAZZO, JOSEPHINE JOANN","HOOD, LATOSHA N [18728]"
+CT Head Wo Contrast,IMG CT UNCNH,"Gaspar-Perez, Yesenia",IMG CT UNC NEUROSCIENCE HOSPITAL,Tech Reviewed (S) Other artifact/limitation not addressed above - physics consult recommended,"*Cause of artifact could be due to the trauma patient having earrings on that could not be removed. Trauma and ED patients present to CT often with jewelry and clothing with metal that should be removed prior to arrival in CT.-lnh.
+
+Lots of artifact, poor image quality on a trauma study on CT2.","DEFREITAS, MARIANA R","HOOD, LATOSHA N [18728]"
+CT Cervical Spine Wo Contrast,IMG CT UNCNH,"Gaspar-Perez, Yesenia",IMG CT UNC NEUROSCIENCE HOSPITAL,Tech Reviewed (S) Other artifact/limitation not addressed above - physics consult recommended,"*Cause of artifact could be due to the trauma patient having earrings on that could not be removed. Trauma and ED patients present to CT often with jewelry and clothing with metal that should be removed prior to arrival in CT.-lnh.
+
+Lots of artifact, poor image quality on a trauma study on CT2.","DEFREITAS, MARIANA R","HOOD, LATOSHA N [18728]"
+CTA Neck W Contrast,IMG CT UNCNH,"Gaspar-Perez, Yesenia",IMG CT UNC NEUROSCIENCE HOSPITAL,Tech Reviewed (S) Other artifact/limitation not addressed above - physics consult recommended,"*Cause of artifact could be due to the trauma patient having earrings on that could not be removed. Trauma and ED patients present to CT often with jewelry and clothing with metal that should be removed prior to arrival in CT.-lnh.
+
+Lots of artifact, poor image quality on a trauma study on CT2.","DEFREITAS, MARIANA R","HOOD, LATOSHA N [18728]"
+CTA Head W Wo Contrast,IMG CT UNCNH,"Medina, Magan Michelle",IMG CT UNC NEUROSCIENCE HOSPITAL,Tech Reviewed (P) Incorrect MPR obliquities or post-processing including image data not sent to specialty software,"""MIP"" are not MIP
+
+Technologist no longer works here, but please call CT work area if the reconstructions do not look correct so that they can rectify the potential issue.
+","HUNG, SHENG-CHE","WATSON, CHRISTOPHER A [210821]"
+CTA Head W Contrast,IMG CT UNCNH,"Talley, Miranda E",IMG CT UNC NEUROSCIENCE HOSPITAL,Tech Reviewed (P) Incorrect MPR obliquities or post-processing including image data not sent to specialty software,"The coronal and sag ""MIP"" are average, not MIP
+
+Feedback shared, and reminder sent to employee. Please continue to call into tech work area if ever images do not look correct to you.  - CAW","HUNG, SHENG-CHE","WATSON, CHRISTOPHER A [210821]"
+CTA Chest W Contrast,IMG CT UNCNH,"Mcdonald, Brian C",IMG CT UNC NEUROSCIENCE HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"*Technologists make every attempt to have patient's raise their arms if tolerable. This patient also had a CTA Neck with contrast exam performed at the same time with the same contrast bolus-lnh.
+
+Artifact from arms being down for a CTA chest","PIETRYGA, JASON ALAN","HOOD, LATOSHA N [18728]"
+CT Abdomen Pelvis W IV Contrast Only,IMG CT UNCNH,"Mcdonald, Brian C",IMG CT UNC NEUROSCIENCE HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"*Technologists make every attempt to have patient's raise their arms if tolerable. This patient also had a CTA Neck with contrast exam performed at the same time with the same contrast bolus-lnh.
+
+Artifact from arms being down for a CTA chest","PIETRYGA, JASON ALAN","HOOD, LATOSHA N [18728]"
+CT Temporal Bones W Contrast,IMG CT UNCNH,"Saunders, Holly A",IMG CT UNC NEUROSCIENCE HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Mastoids are not completely included; right mastoid tip partially cut off
+
+The mastoids aren't technically a part of the temp bones protocol the way it is written. The scan extent is 15mm above and below the IAC. Even on the right side, she's at least 25mm below the IAC. I communicated to technologist, that based on the
+indication, she probably could have included the mastoids.That is something that could have been highlighted by the protocolling radiologist who changed the protocol from a face with to a temp bones with after discussing with ordering provider- caw","ZAMORA GONZALEZ, CARLOS ARMANDO","WATSON, CHRISTOPHER A [210821]"
+CTA Chest W Contrast,IMG CT UNCNH,"Lachance, Mark S",IMG CT UNC NEUROSCIENCE HOSPITAL,Tech Reviewed (A) Good job!,"Mark called for positive PE study and helped expedite communication of findings. Thanks!
+
+Positive feedback shared with technologist- caw
+","KIANI, BAHRAM","WATSON, CHRISTOPHER A [210821]"
+CT Maxillofacial Wo Contrast,IMG CT UNCNH,"Saunders, Holly A",IMG CT UNC NEUROSCIENCE HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"0.75 axial bone missing
+
+Please call CT if ever reconstructions are missing so that you can get what you need. Clarification email sent- caw","ZAMORA GONZALEZ, CARLOS ARMANDO","WATSON, CHRISTOPHER A [210821]"
+CT lumbar spine WO contrast,IMG CT UNCNH,"Le, Tinh",IMG CT UNC NEUROSCIENCE HOSPITAL,Tech Reviewed (G) Suboptimal centering and FOV,"Includes nearly entire abdomen and pelvis on CT lumbar spine
+
+I'm not sure if this is a situation where the CT work area was called to send additional/corrected images, but all the images I see on Sectra are appropriate- caw
+
+","SMITH, JEFFREY KEITH","WATSON, CHRISTOPHER A [210821]"
+CT Thoracic Spine Reformat W Contrast,IMG CT UNCNH,"Le, Tinh",IMG CT UNC NEUROSCIENCE HOSPITAL,Tech Reviewed (G) Suboptimal centering and FOV,"Did not crop c spine from thoracic 
+Discussed error with technologist, please call CT work area if ever your reformats don't look correct- caw","DEFREITAS, MARIANA R","WATSON, CHRISTOPHER A [210821]"
+XR Sacroiliac Joints 3 or More Views,IMG DIAG IC RLGH 1350,"Choy, Alexander",IMG DIAG  X-RAY IMAGING CENTER,Tech Reviewed (K) Incorrect positioning ,"Will discuss with tech.  Tech is new graduate in training and we were short staffed with high volume yesterday.  Didn't get the chance to assist him with everything yesterday.  Negative comments such as this are not helpful and completely unnecessary.  
+The obliques are centered incorrectly.  The LPO should be centered on the right SI joint and vice versa.  Completely inadequate and unacceptable.","RENNER, JORDAN BAYFIELD","ANDREWS, RUSSELL [350412]"
+XR Sacroiliac Joints 3 or More Views,IMG DIAG IC RLGH 1350,"Choy, Alexander",IMG DIAG  X-RAY IMAGING CENTER,Tech Reviewed (E) Incorrect labeling (ex: L/R reversal),"Tech was overly concerned with the feedback he received previously and was over thinking this exam.  He is a new tech that just graduated from another state.  We discussed the mistakes that were made, how they occurred and how to improve moving forward. 
+This  patient had SI joints two days ago that were positioned incorrectly and failed to demonstrate the SI joints.  He returned today and had posterior obliques that are mislabed R vs L.  I'm unclear why this is so difficult","RENNER, JORDAN BAYFIELD","ANDREWS, RUSSELL [350412]"
+XR Ribs Left W PA Chest,IMG DIAG EASTOWNE CHAPEL HILL,"Schneller, Erica L",IMG DIAG EASTOWNE CHAPEL HILL,Tech Reviewed (K) Incorrect positioning ,"Shared, DS","RENNER, JORDAN BAYFIELD","SILBERMAN, DAVIA [7866]"
+XR Finger 2 Or More Views Left,IMG DIAG HBR,"Arroyo, Andres",IMG DIAG HBR,Tech Reviewed (T) Other limitation not addressed above,"Tech Comment-
+I saw the images and on the lateral finger the letter marker is on but I sent it because it was on the was on the clear part of the marker and did not think it obstructed the view of the finger. Next time I will repeat it
+
+
+Rad comment
+
+Technologist marker overlies the tip of the index finger (region of concern) on lateral projection. ","PRYOR III, WILLIAM WATKINS","STEWARD, YOLANDA [31758]"
+XR Cervical Spine 6 or more Views,IMG DIAG HBR,"Johnson, Tamera L",IMG DIAG HBR,Rad QA (E) Incorrect labeling (ex: L/R reversal),Labeling and positioning on obliques,"RENNER, JORDAN BAYFIELD","RENNER, JORDAN [35549]"
+XR Elbow 3 Or More Views Right,IMG DIAG ORTHO ACC,"O'sullivan, Bianca",IMG DIAG X-RAY ORTHO UNC AMBULATORY CARE CENTER,Tech Reviewed (K) Incorrect positioning ,shared,"RENNER, JORDAN BAYFIELD","SILBERMAN, DAVIA [7866]"
+XR Sacrum And Coccyx,IMG DIAG ACC,"O'sullivan, Bianca",IMG DIAG X-RAY UNC AMBULATORY CARE CENTER,Tech Reviewed (F) Incorrect Imaging Protocol,Wrong protocol   JR,"RENNER, JORDAN BAYFIELD","SILBERMAN, DAVIA [7866]"
+XR Abdomen 1 View,IMG DIAG UNCW,"Lukach, Gwen L",IMG DIAG X-RAY UNC WOMENS HOSPITAL,Tech Reviewed (K) Incorrect positioning ,"Image reviewed with technologist
+
+Difficult patient to position, however, the tech from the day prior was able to get appropriate views of the abdomen for the shunt series.","OLINGER, KRISTEN LORRAINE CHECKS","HUMPHRIES, LOGAN T [259637]"
+FL Barium Enema Intussusception Reduction,IMG DIAG UNCW,"Faircloth, Brianna E",IMG DIAG X-RAY UNC WOMENS HOSPITAL,Tech Reviewed (A) Good job!,"Thank you for this recognition. This kudos has been passed along to our technologist. 
+Amazing job by Elis Fl tech. She had everything set up perfectly, knew the procedure and what to do. She also helped identify bleeding. All around amazing job in this really difficult case! Thank you! ","GUIMARAES, CAROLINA V","HUMPHRIES, LOGAN T [259637]"
+XR Hand 3 Or More Views Right,IMG DIAG UNCW,"Deal, Amy J",IMG DIAG X-RAY UNC WOMENS HOSPITAL,Tech Reviewed (K) Incorrect positioning ,"Image evaluation criteria discussed with technologist.
+
+Fingers overlapping each other on lateral and oblique views.  ","DONNELLY, LANE FRANCIS","HUMPHRIES, LOGAN T [259637]"
+XR Chest 2 views,IMG DIAG UNCW,"Toler, Starsha M",IMG DIAG X-RAY UNC WOMENS HOSPITAL,Tech Reviewed (G) Suboptimal centering and FOV,"Clipped anatomy was the result of a faulty detector that was ultimately removed from service.  Tech counseled that although it was initially an equipment error that caused the anatomy to be clipped, the entire left side should have been imaged and
+submitted for interpretation.    jwm
+
+The lateral aspect of the left chest is not included in the field-of-view.    HPC","CLARK, HOLLINS PEEL","MAY, JANNA W [327966]"
+XR Chest Portable,IMG DIAG UNCW,"Waugh, Joseph O",IMG DIAG X-RAY UNC WOMENS HOSPITAL,Tech Reviewed (K) Incorrect positioning ,"Counseled technologist and notified the tech's direct supervisor for follow up.   jwm
+
+Patient is severely rotated, repeat CXR not obtained      MP","RYNTIES, MARK ANTHONY","MAY, JANNA W [327966]"
+XR Trauma Hip Right,IMG DIAG UNCW,"Thompson, Jasmice",IMG DIAG X-RAY UNC WOMENS HOSPITAL,Tech Reviewed (F) Incorrect Imaging Protocol,"Discussion had with technologist to remind about the importance of following image protocol and ensuring all images, if taken, are sent through on PACS
+
+No lateral view of distal femur in PACS. ","SCHWARTZ, CODY JAMES ALEXANDER","HUMPHRIES, LOGAN T [259637]"
+XR Chest Portable,IMG DIAG UNCW,"Spielman, Richard E",IMG DIAG X-RAY UNC WOMENS HOSPITAL,Tech Reviewed (G) Suboptimal centering and FOV,"Image evaluation criteria discussed with technologist 
+L lateral lung base cut off","NAZARIAN, JOHN PHILLIP","HUMPHRIES, LOGAN T [259637]"
+XR Chest Portable,IMG DIAG UNCW,"Spielman, Richard E",IMG DIAG X-RAY UNC WOMENS HOSPITAL,Tech Reviewed (G) Suboptimal centering and FOV,"Image criteria reminder sent to technologist
+
+R costophrenic sulcus excluded from field of view on chest radiograph, no additional image performed.","CLARK, HOLLINS PEEL","HUMPHRIES, LOGAN T [259637]"
+XR Pelvis AP Portable,IMG DIAG UNCW,"Royster, Jala",IMG DIAG X-RAY UNC WOMENS HOSPITAL,Tech Reviewed (G) Suboptimal centering and FOV,"Chest and pelvis radiographs are poorly positioned, portions of anatomy are left out, phone in pocket. 
+","NAZARIAN, JOHN PHILLIP","WILLMAN, LISANDRA R [393988]"
+XR Chest Portable,IMG DIAG UNCW,"Simpson, Katerina N",IMG DIAG X-RAY UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Images were reviewed by supervisor.  Images were obtained immediately upon arrival in ED and were annotated as ""trauma"" so radiologists were aware that the images would not be textbook images as these are typically not textbook patients or conditions. Best images possible at the time, and repeat imaging was not allowed by the trauma team in the ED.   JWM
+
+we shouldn't be taking the images when they are on this type of board  JPN","NAZARIAN, JOHN PHILLIP","MAY, JANNA W [327966]"
+XR Pelvis AP Portable,IMG DIAG UNCW,"Simpson, Katerina N",IMG DIAG X-RAY UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Images were reviewed by supervisor.  Images were obtained immediately upon arrival in ED and were annotated as ""trauma"" so radiologists were aware that the images would not be textbook images as these are typically not textbook patients or conditions. Best images possible at the time, and repeat imaging was not allowed by the trauma team in the ED.   JWM
+
+we shouldn't be taking the images when they are on this type of board  JPN","NAZARIAN, JOHN PHILLIP","MAY, JANNA W [327966]"
+XR Bone Survey Complete,IMG DIAG UNCW,"Campos, Luz D",IMG DIAG X-RAY UNC WOMENS HOSPITAL,Tech Reviewed (F) Incorrect Imaging Protocol,"Reviewed images with technologist.  Technologist admits there was confusion regarding protocol and claims that she asked the workflow coordinator about the protocol, but multiple failures occurred and the incorrect images were obtained.  Reviewed
+protocol, how to locate protocols, and completed documented counseling session with technologist regarding acceptable practice standards.  JWM
+
+
+Unclear to me how this collection of images was obtained; myeloma survey has never included AP views of the skull, AP chest and abdomen, and PA hands and feet.  If the AP chest and abdomen are supposed to be AP of the spine they are obviously incorrectlycollimated.  This is absolutely unacceptable practice   JR","RENNER, JORDAN BAYFIELD","MAY, JANNA W [327966]"
+XR Chest Portable,IMG DIAG UNCW,"Furr, Sarah B",IMG DIAG X-RAY UNC WOMENS HOSPITAL,Tech Reviewed (K) Incorrect positioning ,Left hand overlying the patient limits evaluation- spoke with tech. Best images possible,"SAKTHIVEL, MUTHU KUMAR","WILLMAN, LISANDRA R [393988]"
+XR Abdomen Portable G-Tube Check,IMG DIAG UNCW,"Rode, Sarah",IMG DIAG X-RAY UNC WOMENS HOSPITAL,Tech Reviewed (F) Incorrect Imaging Protocol,"Spoke with tech and she is aware of the protocol, Thanks-LW
+
+Note by Altun, Ersan:There is only one supine image. I think this is not consistent with our protocol although I am not sure if it was possible to acquire the remaining images.","ALTUN, ERSAN","WILLMAN, LISANDRA R [393988]"
+MRI Lumbar Spine Wo Contrast,IMG MRI ICB HUFF 1225,"Beckman, Thomas W",IMG MRI BURLINGTON IMAGING CENTER,Rad QA (T) Other limitation not addressed above,T2 SPACE looks like a T1 and is nondiagnostic. It seems that it was attempted twice. We do not have an axial T2 sequence.,"HUANG, BENJAMIN YU-BIN","ZAMORA, CARLOS [160152]"
+MRI Upper Extremity Joint Right W Wo Contrast,IMG MRI HBR,"Whitfield, Jessica A",IMG MRI HILLSBOROUGH,Tech Reviewed (F) Incorrect Imaging Protocol,"Routine w/wo as there is a t2FS sagittal, the tumor/infection protocol does not have one. 
+
+Tech reviewed images and protocol.  TWB","SCHWARTZ, CODY JAMES ALEXANDER","BECKMAN, THOMAS W [8564]"
+MRI brain without contrast,IMG MRI HBR,"Lewis, Christie L",IMG MRI HILLSBOROUGH,Rad QA (T) Other limitation not addressed above,3D T2FLAIR failed with no CSF suppression,"ZAMORA GONZALEZ, CARLOS ARMANDO","ZAMORA, CARLOS [160152]"
+MRI Breast Bilateral W Wo Contrast,IMG MRI HBR,"Canaday, Lauren",IMG MRI HILLSBOROUGH,Rad QA (F) Incorrect Imaging Protocol,Incorrect contrast. Elucirem not used for breast MRI,"HICKMAN, LAUREN A","HICKMAN, LAUREN A [273695]"
+MRI Breast Bilateral W Wo Contrast,IMG MRI HBR,"Canaday, Lauren",IMG MRI HILLSBOROUGH,Rad QA (F) Incorrect Imaging Protocol,Wrong contrast. We are not using Elucirem for breast MRI yet.,"HICKMAN, LAUREN A","HICKMAN, LAUREN A [273695]"
+MRI Pelvis W Wo Contrast,IMG MRI HBR,"Hinkle, Connie L",IMG MRI HILLSBOROUGH,Rad QA (F) Incorrect Imaging Protocol,Wrong T2 TSE planes. Straigght axial and straight coronal planes should have been used. Small FOV T1 fat sat transverse plane pre nd postcontrast are missing.,"ALTUN, ERSAN","ALTUN, ERSAN [75031]"
+MRI brain with and without contrast,IMG MRI HBR,"Lewis, Christie L",IMG MRI HILLSBOROUGH,Rad QA (T) Other limitation not addressed above,The 3D FLAIR images have poor CSF suppression. Please review the sequence parameters.,"HUANG, BENJAMIN YU-BIN","HUANG, BENJAMIN [13524]"
+MRI Breast Bilateral W Wo Contrast,IMG MRI HBR,"Stallings, Melody L",IMG MRI HILLSBOROUGH,Rad QA (F) Incorrect Imaging Protocol,Wrong contrast used. Not using Elucirem for breast at this time.,"HICKMAN, LAUREN A","HICKMAN, LAUREN A [273695]"
+MRI Thoracic Spine W Wo Contrast,IMG MRI HBR,"Hinkle, Connie L",IMG MRI HILLSBOROUGH,Rad QA (T) Other limitation not addressed above,"Ordering provider requested 0.6 mm sagittal CISS (based on previous MRI report recommendation); CISS was done at 1.3 mm, which is not sufficient to delineate thin arachnoid membranes. 
+Slice thickness was not specified on the radiologist protocoling comment, though it's indicated on the ordering provider comment.
+
+Are the clinician comments visible to the technologist?","ZAMORA GONZALEZ, CARLOS ARMANDO","ZAMORA, CARLOS [160152]"
+MRI Abdomen W Wo Contrast,IMG MRI IC RLGH 1350,"Jakobsen-Lopez, Mariah",IMG MRI IMAGING CENTER,Tech Reviewed (T) Other limitation not addressed above,"Discussed with tech.  Contrast showed on care bolus but injector disconnected right after.  Patient already scheduled to return.  RA
+
+No contrast on postgad images... likely extravasation... The tech did not realize. The patient will be called back.","ALTUN, ERSAN","ANDREWS, RUSSELL [350412]"
+MRI Brain W Wo Contrast,IMG MRI IC RLGH 1350,"Benson, Carmen Y",IMG MRI IMAGING CENTER,Tech Reviewed (T) Other limitation not addressed above,"Information sent to mobile MRI supervisors.  RA
+
+CISS: slice thickness is ok but scan looks very blurry. Difficult to visualize the 8th cranial nerve. Can we optimize inplane resolution? Does matrix size and other parameters match the protocol at main?","ZAMORA GONZALEZ, CARLOS ARMANDO","ANDREWS, RUSSELL [350412]"
+MRI Abdomen Pelvis W Wo Contrast,IMG MRI IC RLGH 1350,"Harmon, Amy M",IMG MRI IMAGING CENTER,Tech Reviewed (T) Other limitation not addressed above,"This patient has TS and has renal lesions followed on MRI.   Has always had studied done with sedation at the main.   Today had a study without sedation in Spine Center mobile.   Almost unreadable. 
+We probably should not be doing advanced peds body work in mobile. ","DONNELLY, LANE FRANCIS","DONNELLY, LANE F [319136]"
+MRI Upper Extremity Joint Right Wo Contrast,IMG MRI IC RLGH 1350,"Ave'Lallemant, Leah",IMG MRI IMAGING CENTER,Tech Reviewed (A) Good job!,"Shared with tech.  Thanks
+
+Nice work with field of view with this one","SCHWARTZ, CODY JAMES ALEXANDER","ANDREWS, RUSSELL [350412]"
+MRI brain with and without contrast,IMG MRI IC RLGH 1350,"Gegorek, Christopher A",IMG MRI IMAGING CENTER,Tech Reviewed (P) Incorrect MPR obliquities or post-processing including image data not sent to specialty software,Sag ciss MPRs were not set up by tech in MPR planning. Discussed w tech. /LMA     Incorrect MPR obliquities or post-processing including image data not sent to specialty software,"JEWELLS, VALERIE LYNN","AVE'LALLEMANT, LEAH [148699]"
+MRA Head W Wo Contrast,IMG MRI IC RLGH 1350,"Benson, Carmen Y",IMG MRI IMAGING CENTER,Tech Reviewed (A) Good job!,"Shared with mobile MRI supervisors.  Thanks
+
+Very good quality MRA","ZAMORA GONZALEZ, CARLOS ARMANDO","ANDREWS, RUSSELL [350412]"
+MRI Lower Extremity Non-Joint Left W Wo Contrast,IMG MRI IC RLGH 1350,"Jackson, Anna H",IMG MRI IMAGING CENTER,Tech Reviewed (F) Incorrect Imaging Protocol,"Protocol manual and scanner protocols do not list this.  Where is this protocol with this sequence listed?
+
+Per protocol I see Routine Long Bone has a SAGITAL STIR, but none on this study. Called tech and mentioned that it is not in the protocol. Not sure if we protocolled it incorrectly.","STRAUS TAKAHASHI, MARCELO","ANDREWS, RUSSELL [350412]"
+MRI Brain W Wo Contrast,IMG MRI UNCCH,"Ross, Julia",IMG MRI UNC CHILDRENS HOSPITAL,Rad QA (T) Other limitation not addressed above,"It looks like patient did correctly receive gadavist, but DICOM label says Elucirem. ","ZAMORA GONZALEZ, CARLOS ARMANDO","ZAMORA, CARLOS [160152]"
+MRI Cervical Spine Wo Contrast,IMG MRI UNCCH,"Lewis, Robert S",IMG MRI UNC CHILDRENS HOSPITAL,Rad QA (T) Other limitation not addressed above,"Sagittal STIR is missing half of the spine. It looks like the first slice is at the middle of the spine, right side is missing.
+
+There is something wrong also with the way the most sequences scroll in PACS, they are jumping back and forth and it does not look like motion artifact. I contacted the current technologist to see if they could try to fix, but would be good to figure outhow this was processed and submitted in the first place.
+
+","ZAMORA GONZALEZ, CARLOS ARMANDO","ZAMORA, CARLOS [160152]"
+MRI Brain W Wo Contrast,IMG MRI UNCCH,"Lewis, Robert S",IMG MRI UNC CHILDRENS HOSPITAL,Rad QA (T) Other limitation not addressed above,"I am seeing some sequences where the sagittal localizer is burnt into the stack. Here you can see it on the DWI and ADC map. How can we turn that option off? Other sequences are fine.
+
+This is different from the Sectra localizer that you can toggle on/off.
+
+This was done on the Avanto02, but I have the feeling that I've seen it from other scanners.","ZAMORA GONZALEZ, CARLOS ARMANDO","ZAMORA, CARLOS [160152]"
+MRI Head W Wo Contrast MRA Head Wo Contrast,IMG MRI UNCCH,"Lewis, Robert S",IMG MRI UNC CHILDRENS HOSPITAL,Rad QA (T) Other limitation not addressed above,"Lower basilar artery and vertebral arteries are not included on the TOF MRA.
+
+Also, T1 SPACE VWI is currently set at 0.9 mm, not 1mm. This resolution is nondiagnostic for vessel wall imaging","ZAMORA GONZALEZ, CARLOS ARMANDO","ZAMORA, CARLOS [160152]"
+MRI Cervical Spine Wo Contrast,IMG MRI UNCCH,"Eatmon, Tracy",IMG MRI UNC CHILDRENS HOSPITAL,Tech Reviewed (A) Good job!,Great images especially with hardware,"SMITH, JEFFREY KEITH","POTTABATULA, BHAVANA [294129]"
+MRI Breast Bilateral W Wo Contrast,IMG MRI UNCCH,"Webb, Tristan J",IMG MRI UNC CHILDRENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Email sent to tech
+
+T2/STIR is not fat suppressed. Incorrect sequence/inversion time. ","SENTER, ANDREA STALLSMITH","STALLINGS, CLIFTON G [22566]"
+MRA Chest W Wo Contrast,IMG MRI UNCCH,"Henn, Angeleana B",IMG MRI UNC CHILDRENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Emailed whole group
+
+Superfluous dynamic sequences sent to PACS making it difficult to load the study and difficult to find the sequences that have diagnostic value. 
+If there is a thoracic/upper extremity arterial lesion, please try to inject contrast from the contralateral side, as the artifact from ipsilateral venous injection degrades the diagnostic quality, see prior MRA on this patient as an example. ","CLARK, MEGHAN RUTH","STALLINGS, CLIFTON G [22566]"
+MRA Chest Wo Contrast,IMG MRI UNCCH,"Ross, Julia",IMG MRI UNC CHILDRENS HOSPITAL,Rad QA (F) Incorrect Imaging Protocol,Incomplete protocol. No post-contrast images of the chest. Will need to bring patient back for post-contrast images.,"HANSEN, REBECCA MANN","HANSEN, REBECCA M [398005]"
+MRI Enterography,IMG MRI UNCCH,"Gaines, Jeffrey",IMG MRI UNC CHILDRENS HOSPITAL,Rad QA (G) Suboptimal centering and FOV,"We do not use this kind of FOV... We scan the abdomen and pelvis separately for all enterography studies.
+","ALTUN, ERSAN","ALTUN, ERSAN [75031]"
+MRI Brain Wo Contrast,IMG MRI UNCCH,"Eatmon, Tracy",IMG MRI UNC CHILDRENS HOSPITAL,Rad QA (A) Good Job!,Tracy called after noticing a lesion in cerebellum to see if we needed to add contrast. Helped avoid patient having to return for post-con images,"ZAMORA GONZALEZ, CARLOS ARMANDO","MACLEAN, MATTHEW T [294145]"
+MRI Breast Bilateral W Wo Contrast,IMG MRI UNCCH,"Sakhare, Uma",IMG MRI UNC CHILDRENS HOSPITAL,Rad QA (G) Suboptimal centering and FOV,"Need to scan up higher to lower pole of thyroid gland. We missed most her axilla. Otherwise, very nice exam.
+","WOODARD, GENEVIEVE ANNA","WOODARD, GENEVIEVE A [329012]"
+MRI Pelvis W Wo Contrast,IMG MRI UNCCH,"Douglas, Jeromy",IMG MRI UNC CHILDRENS HOSPITAL,Tech Reviewed (A) Good job!,"Emailed tech
+
+One of the oblique coronal T2 TSE should be parallel to the anal canal. Otherwise, it is a good examination.","ALTUN, ERSAN","STALLINGS, CLIFTON G [22566]"
+MRI Breast Bilateral W Wo Contrast,IMG MRI UNCCH,"Dreyer, Brett W",IMG MRI UNC CHILDRENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Emailed other techs
+Not using Elucirem currently for breast. ","SENTER, ANDREA STALLSMITH","STALLINGS, CLIFTON G [22566]"
+MRI Breast Self Pay W Wo Contrast,IMG MRI UNCCH,"Ferguson, Marshay",IMG MRI UNC CHILDRENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Emailed tech and group
+
+
+Not currently using Elucirem for breast. ","SENTER, ANDREA STALLSMITH","STALLINGS, CLIFTON G [22566]"
+MRI Brain W Wo Contrast,IMG MRI UNCCH,"Lewis, Robert S",IMG MRI UNC CHILDRENS HOSPITAL,Rad QA (S) Other artifact/limitation not addressed above - physics consult recommended,The Contrast of 3D FLAIR is bad and full of artifacts,"HUNG, SHENG-CHE","HUNG, SHENG-CHE [169700]"
+US Renal Complete,IMG US ICB HUFF 1225,"Ziemke, Breanna L",IMG ULTRASOUND BURLINGTON IMAGING CENTER,Tech Reviewed (A) Good job!,"Reviewed with Tech - ccm
+
+Great images","STRAUS TAKAHASHI, MARCELO","MCCLEARY, CHARITY C [70674]"
+US Pelvis Transabdominal Complete,IMG US HBR,"Spellman, Shavonne L",IMG ULTRASOUND HILLSBOROUGH,Tech Reviewed (T) Other limitation not addressed above,"Shared and reviewed with tech - ccm
+
+Pediatric still images not stacked in SECTRA.","PRYOR III, WILLIAM WATKINS","MCCLEARY, CHARITY C [70674]"
+US Pyloric Stenosis,IMG US HBR,"Carlton, Brooke A",IMG ULTRASOUND HILLSBOROUGH,Tech Reviewed (T) Other limitation not addressed above,"Reviewed with tech - ccm
+
+Incorrect anatomy! The pylorus was not imaged. Images labeled as pylorus are of the gastroesophageal junction.","PRYOR III, WILLIAM WATKINS","MCCLEARY, CHARITY C [70674]"
+US Abdomen Limited - Appendix,IMG US HBR,"Tingen, Trena",IMG ULTRASOUND HILLSBOROUGH,Rad QA (A) Good Job!,Great images,"STRAUS TAKAHASHI, MARCELO","STRAUS TAKAHASHI, MARCELO [349182]"
+US Abdomen Complete,IMG US HBR,"Tingen, Trena",IMG ULTRASOUND HILLSBOROUGH,Tech Reviewed (T) Other limitation not addressed above,"Reminder to tech - ccm
+
+Urinary bladder not evaluated","PRYOR III, WILLIAM WATKINS","MCCLEARY, CHARITY C [70674]"
+US Scrotum,IMG US IC RLGH 1350,"Lechtner, Elizabeth",IMG ULTRASOUND IMAGING CENTER,Tech Reviewed (T) Other limitation not addressed above,"Pediatric still images not stacked in SECTRA.
+
+Will remind tech again -Katie","PRYOR III, WILLIAM WATKINS","JOHNSON, KATHERYN M [55225]"
+US Neonatal Head,IMG US UNCW,"Salvador, Maria A",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Pediatric still images not collected in SECTRA.
+
+Will remind tech again.","PRYOR III, WILLIAM WATKINS","JOHNSON, KATHERYN M [55225]"
+US Liver Doppler,IMG US UNCW,"Brown, David P",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Indication was to assess liver with Doppler. Renal Doppler also obtained, but should be separate order.
+
+Pediatric still images not stacked in SECTRA.
+
+
+US LIVER DOPPLER EAP charges CPT codes 93975 (doppler complete) and 76705 (abdomen complete). A US RENAL COMPLETE W DOPPLER EAP charges CPT codes 76770 (retroperitoneal complete) and 93975 (doppler complete). Since the kidneys are included in an
+abdominal complete we already charged 93975, we cannot charge anything additional. I will check with billing to ensure this is correct. ","PRYOR III, WILLIAM WATKINS","JOHNSON, KATHERYN M [55225]"
+US Renal Complete,IMG US UNCW,"Arescheril, Sruthi ",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Pediatric still images not stacked in SECTRA.
+
+Will remind tech again. ","PRYOR III, WILLIAM WATKINS","JOHNSON, KATHERYN M [55225]"
+US Abdomen Limited,IMG US UNCW,"Mathson, Tanir T",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"No tech notes in SECTRA. ?If study was closed prior to entering notes? Pediatric still images not stacked in SECTRA.
+
+Will remind tech","PRYOR III, WILLIAM WATKINS","JOHNSON, KATHERYN M [55225]"
+US Spine,IMG US UNCW,"Barry, Clare K",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (A) Good job!,"Clare is very good, these images are clear and easy to read. Recommend giving her a raise.
+
+
+Katie emailed Clare on 3/6; thank you for the positive note!","FORDHAM, LYNN ANSLEY","JOHNSON, KATHERYN M [55225]"
+US Endovaginal (Non-OB),IMG US UNCW,"Thorne, Baylee",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"The comment section was blank, so I'm not sure what the limitation was? ","PRYOR III, WILLIAM WATKINS","JOHNSON, KATHERYN M [55225]"
+US Soft Tissue Head And Neck,IMG US UNCW,"Lechtner, Elizabeth",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,Pediatric still images not stacked in SECTRA. WP,"PRYOR III, WILLIAM WATKINS","SILBERMAN, DAVIA [7866]"
+US Abdomen Limited,IMG US UNCW,"Barry, Clare K",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Pediatric still images not stacked in SECTRA.
+
+Will remind tech again.","PRYOR III, WILLIAM WATKINS","JOHNSON, KATHERYN M [55225]"
+US Pyloric Stenosis,IMG US UNCW,"Headlee, Tabitha ",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,Pediatric images not stacked in SECTRA. WP,"GUIMARAES, CAROLINA V","SILBERMAN, DAVIA [7866]"
+US RUQ W Gallbladder,IMG US UNCW,"Adams, Ashley",IMG ULTRASOUND UNC WOMENS HOSPITAL,"Tech Reviewed (J) Missing information (contrast dose, DLP, PET scan delay, glucose, etc.)","Need limited views of the right kidney on RUQ US
+
+Katie emailed tech on 4/16/25","PIETRYGA, JASON ALAN","JOHNSON, KATHERYN M [55225]"
+US RUQ W Gallbladder,IMG US UNCW,"Headlee, Tabitha ",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (E) Incorrect labeling (ex: L/R reversal),"Measured the gallbladder wall incorrectly 
+Katie emailed tech on 4/16","PIETRYGA, JASON ALAN","JOHNSON, KATHERYN M [55225]"
+US Scrotum and Testes,IMG US UNCW,"Brown, David P",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (A) Good job!,"Amazing images and David called and communicated that findings looked like partial torsion. Patient was taken to OR and was able to be detorsed/testicle viable
+
+Katie emailed tech on 4/16. Thanks for the positive feedback! ","GUIMARAES, CAROLINA V","JOHNSON, KATHERYN M [55225]"
+US Abdomen Limited,IMG US UNCW,"Hunjan-Williams, Leslie",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (F) Incorrect Imaging Protocol,"Please always use high frequency linear transducers for neonatal bowel ultrasound (4-20 for the E-10)
+
+Katie emailed tech on 4/16","STRAUS TAKAHASHI, MARCELO","JOHNSON, KATHERYN M [55225]"
+US Renal Complete,IMG US UNCW,"Collazo, Jailin",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (A) Good job!,"Great images
+
+Katie emailed tech on 4/16. Thanks for the positive feedback.","STRAUS TAKAHASHI, MARCELO","JOHNSON, KATHERYN M [55225]"
+US Abdomen Limited - Appendix,IMG US UNCW,"Soto, Patricia E",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (A) Good job!,"Great images, OP note confirmed appendicitis.","STRAUS TAKAHASHI, MARCELO","STRAUS TAKAHASHI, MARCELO [349182]"
+US Spine,IMG US UNCW,"Headlee, Tabitha ",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (F) Incorrect Imaging Protocol,"Missing rib cine clip
+
+Katie emailed tech on 4/16","STRAUS TAKAHASHI, MARCELO","JOHNSON, KATHERYN M [55225]"
+US Liver Doppler,IMG US UNCW,"Headlee, Tabitha ",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Great color images.  Please do grayscale images of all vessels per protocol.  This is best way to look for thrombus.  Thanks! 
+Katie emailed tech on 4/16","LEE, ELLIE ROSE","JOHNSON, KATHERYN M [55225]"
+US Neonatal Head,IMG US UNCW,"Pulaski, Sadie",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (A) Good job!,Great images,"STRAUS TAKAHASHI, MARCELO","STRAUS TAKAHASHI, MARCELO [349182]"
+US Thyroid,IMG US UNCW,"Barry, Clare K",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Pediatric still images not stacked in SECTRA
+
+Will remind tech again -Katie","PRYOR III, WILLIAM WATKINS","JOHNSON, KATHERYN M [55225]"
+US Neonatal Head,IMG US UNCW,"Mathson, Tanir T",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Pediatric still images not stacked in SECTRA. No tech notes recorded in PowerScribe.
+
+Will remind tech again -Katie","PRYOR III, WILLIAM WATKINS","JOHNSON, KATHERYN M [55225]"
+US Neonatal Head,IMG US UNCW,"Mathson, Tanir T",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Pediatric still images not stacked in SECTRA. No technologist notes recorded in Powerscribe.
+
+Will remind tech again -Katie","PRYOR III, WILLIAM WATKINS","JOHNSON, KATHERYN M [55225]"
+US Neonatal Head,IMG US UNCW,"Mathson, Tanir T",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Pediatric still images not stacked in SECTRA. No tech notes in Powerscribe
+
+Will remind tech again -Katie","PRYOR III, WILLIAM WATKINS","JOHNSON, KATHERYN M [55225]"
+US Renal Complete,IMG US UNCW,"Arescheril, Sruthi ",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Please put color Doppler on soft tissue in the bladder.  Thanks!
+
+Tech is no longer at UNC 4/16/25 -Katie","LEE, ELLIE ROSE","JOHNSON, KATHERYN M [55225]"
+US Renal Complete,IMG US UNCW,"Rhinehart, Karsyn",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Pediatric still images not stacked in SECTRA.
+
+Will remind tech again -Katie","PRYOR III, WILLIAM WATKINS","JOHNSON, KATHERYN M [55225]"
+US Scrotum,IMG US UNCW,"Rhinehart, Karsyn",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"When suspecting a hernia, please use hernia protocol and visualize proximal entry point . Thanks
+
+Katie emailed Karsyn on 4/16","LEE, ELLIE ROSE","JOHNSON, KATHERYN M [55225]"
+US Liver with Elastography,IMG US UNCW,"Hunjan-Williams, Leslie",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Great data set. Please fill in machine and probe type.  Thanks.
+
+Katie emailed tech on 4/16","LEE, ELLIE ROSE","JOHNSON, KATHERYN M [55225]"
+US Renal Complete,IMG US UNCW,"Barry, Clare K",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,Right MCDK - no renal tissue seen on today's study - noted by tech.   Last study could see some cysts etc.    Images only obtained anteriorly.  Anytime there is difficulty seeing renal structure from anteriorly.  Posterior acquisition of images should beobtained. ,"DONNELLY, LANE FRANCIS","DONNELLY, LANE F [319136]"
+US Scrotum,IMG US UNCW,"Thorne, Baylee",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Please image the entire epididymis with and without color. Thanks!
+
+Katie emailed tech on 4/16","LEE, ELLIE ROSE","JOHNSON, KATHERYN M [55225]"
+US Renal Complete,IMG US UNCW,"Hunjan-Williams, Leslie",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (A) Good job!,"Nice posterior views of the kidneys!
+
+Katie emailed tech on 4/16","DONNELLY, LANE FRANCIS","JOHNSON, KATHERYN M [55225]"
+US Endovaginal (Non-OB),IMG US UNCW,"Dixon, Kathryn E",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (A) Good job!,Great 3D pic!,"OLINGER, KRISTEN LORRAINE CHECKS","JONES, ELLEN B [294161]"
+US Soft Tissue Head And Neck,IMG US UNCW,"Rhinehart, Karsyn",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Area of concern is not completely visualized. Should have used virtual convex  or maybe a higher frequency convex probe.
+Also evaluation of the right parotid gland on cine clips is incomplete (images with not enough depth)","STRAUS TAKAHASHI, MARCELO","STRAUS TAKAHASHI, MARCELO [349182]"
+US Renal Complete (cpt 76775),IMG US UNCW,"Cox, Alyssa A",IMG ULTRASOUND UNC WOMENS HOSPITAL,Tech Reviewed (T) Other limitation not addressed above,"Pediatric still images not stacked in SECTRA.
+
+Will remind tech again -Katie","PRYOR III, WILLIAM WATKINS","JOHNSON, KATHERYN M [55225]"
+US Infant Hips Complete W Stress Bilateral,IMG US BLUE 2801,"Musson, Wendy B",IMG US BLUE 2801,Rad QA (A) Good Job!,Great hip images!,"DONNELLY, LANE FRANCIS","DONNELLY, LANE F [319136]"
+US Pelvis Limited,IMG US BLUE 2801,"Lee, Phoebe",IMG US BLUE 2801,Rad QA (T) Other limitation not addressed above,No tech notes in SECTRA. ?Completed study in SECTRA before providing notes?,"PRYOR III, WILLIAM WATKINS","PRYOR, WILLIAM W [329013]"
+US Renal Complete,IMG US EASTOWNE CHAPEL HILL,"Spellman, Shavonne L",IMG US EASTOWNE CHAPEL HILL,Tech Reviewed (T) Other limitation not addressed above,"Shared and reviewed with tech - ccm
+
+Please put color Doppler on septations to assess vascularity. ","LEE, ELLIE ROSE","MCCLEARY, CHARITY C [70674]"
+US RUQ W Gallbladder,IMG US EASTOWNE CHAPEL HILL,"Grantz, Shawna M",IMG US EASTOWNE CHAPEL HILL,Tech Reviewed (T) Other limitation not addressed above,"Reminder to tech - ccm
+
+Please use HCC screening template, thanks!","LEE, ELLIE ROSE","MCCLEARY, CHARITY C [70674]"
+US Renal Complete,IMG US EASTOWNE CHAPEL HILL,"Graham, Nautica S",IMG US EASTOWNE CHAPEL HILL,Tech Reviewed (A) Good job!,"Reviewed with tech - ccm
+
+Great quality images.","STRAUS TAKAHASHI, MARCELO","MCCLEARY, CHARITY C [70674]"
+US Soft Tissue Head And Neck,IMG US EASTOWNE CHAPEL HILL,"Myers, Denee",IMG US EASTOWNE CHAPEL HILL,Rad QA (T) Other limitation not addressed above,"Please measure the lymph node in short axis, not the cortex.  Thanks","LEE, ELLIE ROSE","LEE, ELLIE [35791]"
+CT Urogram,IMG CT IC RLGH 1350,"Bailey, Megan",RAD RALEIGH ROAD,Tech Reviewed (C) Expected views/images not in PACS,"Tech missed it.  Didn't realize until after the exam was over that the enhanced phase didn't go through the bladder.  
+I think the enhanced phase is supposed to go through the bladder. Provided study only has the delayed phase going through the bladder","OSTRUM, SAMUEL","ANDREWS, RUSSELL [350412]"
+CTA Chest W Contrast,IMG CT IC RLGH 1350,"Bailey, Megan",RAD RALEIGH ROAD,Tech Reviewed (M) Incorrect bolus timing ,"Tech miss timed the bolus tracking and thought she had it on one of the pulmonary vessels.  Discussed improvement and how to do better next time.    
+This study is aortic timing. Should have been a PE study. ROI in main pulmonary artery of 110 HU","CLARK, HOLLINS PEEL","ANDREWS, RUSSELL [350412]"
