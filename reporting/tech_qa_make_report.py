@@ -89,6 +89,41 @@ def add_image_page(c, title, subtitle, img_path):
     c.showPage()
 
 
+def add_positive_technologists_table(c, title, subtitle, pos_counts, csv_name, rows_per_page=28):
+    rows = pos_counts.copy()
+    if rows.empty:
+        rows = pd.DataFrame([{"technologist": "None", "positive_count": 0}])
+
+    total_pages = max(1, (len(rows) + rows_per_page - 1) // rows_per_page)
+    for page_idx in range(total_pages):
+        start = page_idx * rows_per_page
+        end = start + rows_per_page
+        page_rows = rows.iloc[start:end]
+
+        page_title = title if total_pages == 1 else f"{title} ({page_idx + 1}/{total_pages})"
+        add_page_title(c, page_title, subtitle)
+        c.setFont("Helvetica", 10)
+        c.drawString(72, 700, f"CSV export: {csv_name}")
+
+        y = 675
+        c.setFont("Helvetica-Bold", 10)
+        c.drawString(72, y, "Rank")
+        c.drawString(120, y, "Technologist")
+        c.drawRightString(540, y, "Positive comments")
+        y -= 10
+        c.line(72, y, 540, y)
+        y -= 16
+
+        c.setFont("Helvetica", 10)
+        for rank, (_, row) in enumerate(page_rows.iterrows(), start=start + 1):
+            c.drawString(72, y, str(rank))
+            c.drawString(120, y, str(row["technologist"])[:52])
+            c.drawRightString(540, y, str(int(row["positive_count"])))
+            y -= 18
+
+        c.showPage()
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--master", required=True)
@@ -101,11 +136,12 @@ def main():
 
     df = pd.read_csv(master_path)
     df["year_month"] = df.apply(lambda r: f"{int(r['year']):04d}-{int(r['month']):02d}", axis=1)
+    df["provider_reviewer"] = df["signing_physicians"].fillna("").astype(str).str.strip()
+    df.loc[df["provider_reviewer"] == "", "provider_reviewer"] = "UNKNOWN"
 
     ts = datetime.now().strftime("%Y%m%d_%H%M%S")
     prefix = f"Tech_QA_Report_{ts}"
 
-    # --- Aggregations
     monthly_total = df.groupby("year_month")["qa_id"].count().rename("total").sort_index()
 
     # --- Charts
@@ -128,7 +164,7 @@ def main():
         ("Modality", "modality", "02_modality_trends.png", "Count"),
         ("Site", "site", "03_site_trends.png", "Count"),
         ("Issue category", "qa_category", "04_category_trends.png", "Count"),
-        ("Signing Physician (Radiologist)", "signing_physicians", "05_reviewer_trends.png", "Count"),
+        ("Provider reviewer", "provider_reviewer", "05_reviewer_trends.png", "Count"),
     ]:
         top = top_items(col, n=6)
         pivot = (
@@ -198,8 +234,8 @@ def main():
         "2) Monthly trend by modality (top 6 overall)",
         "3) Monthly trend by site (top 6 overall)",
         "4) Monthly trend by issue category (top 6 overall)",
-        "5) Monthly trend by signing physician (top 6 overall)",
-        "6) Positive technologists (CSV + XLSX + PNG outputs)",
+        "5) Monthly trend by provider reviewer (top 6 overall)",
+        "6) Positive technologists table + exports",
     ]
     y = 670
     for it in items:
@@ -213,9 +249,16 @@ def main():
         ("02_modality_trends.png", "Monthly trend by Modality (top 6 overall)"),
         ("03_site_trends.png", "Monthly trend by Site (top 6 overall)"),
         ("04_category_trends.png", "Monthly trend by Issue category (top 6 overall)"),
-        ("05_reviewer_trends.png", "Monthly trend by Signing Physician (top 6 overall)"),
+        ("05_reviewer_trends.png", "Monthly trend by Provider reviewer (top 6 overall)"),
     ]:
         add_image_page(c, title, subtitle, outdir / f"{prefix}_{fname}")
+    add_positive_technologists_table(
+        c,
+        "Positive Technologists",
+        subtitle,
+        pos_counts,
+        pos_csv.name,
+    )
 
     c.save()
 

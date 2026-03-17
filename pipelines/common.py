@@ -70,7 +70,7 @@ def parse_dept(dept) -> Tuple[str, str, str, str]:
         modality = "CT"
     elif "MRI" in tokens or "MR" in tokens:
         modality = "MR"
-    elif "US" in tokens:
+    elif "US" in tokens or "ULTRASOUND" in tokens:
         modality = "US"
     elif "DIAG" in tokens or "XR" in tokens or "X-RAY" in raw:
         modality = "XR"
@@ -80,8 +80,20 @@ def parse_dept(dept) -> Tuple[str, str, str, str]:
     site = "OTHER"
     if "BLUE" in tokens and "2801" in tokens:
         site = "BLUE_2801"
-    elif "ORTHO" in tokens and "ACC" in tokens:
+    elif "ORTHO" in tokens and ("ACC" in tokens or "AMBULATORY" in tokens):
         site = "ORTHO_ACC"
+    elif "HILLSBOROUGH" in tokens or "HBR" in tokens:
+        site = "HBR"
+    elif "NEUROSCIENCE" in tokens or "UNCNH" in tokens:
+        site = "UNCNH"
+    elif "CHILDRENS" in tokens or "UNCCH" in tokens:
+        site = "UNCCH"
+    elif "WOMENS" in tokens or "UNCW" in tokens:
+        site = "UNCW"
+    elif "EASTOWNE" in tokens:
+        site = "EASTOWNE"
+    elif "SPINE" in tokens and "CENTER" in tokens:
+        site = "RLGH"
     else:
         for key in ["UNCNH", "HBR", "RLGH", "UNCCH", "UNCW", "EASTOWNE"]:
             if key in tokens:

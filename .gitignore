@@ -21,4 +21,7 @@ Thumbs.db
 # Data + outputs (never commit real data)
 data/raw/
 data/raw_new/
+data/raw_examples/*.csv
+data/raw_examples/*.xlsx
 outputs/
+master.ipynb
