@@ -23,8 +23,14 @@ data/raw/
 data/raw_new/
 data/raw_examples/*.csv
 data/raw_examples/*.xlsx
+!data/raw_examples/2025_06_sample.csv
 backups/
 outputs/
+!outputs/
+outputs/*
+!outputs/examples/
+outputs/examples/*
+!outputs/examples/tech_qa_master_example.csv
 reporting/**/*.pdf
 reporting/**/*.png
 reporting/**/*.csv

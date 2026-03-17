@@ -1,0 +1,4 @@
+Procedure,Technologist,Appt Dept,Reason,Comments,Signing Physicians,User
+US Abdomen Limited,"Taylor, Alex",IMG US UNCW,Tech Reviewed (A) Good job!,"Synthetic example: complete views obtained and documentation was clear.","Provider, Sample A","Reviewer, Sample A [1001]"
+MRI Brain Wo Contrast,"Jordan, Casey",IMG MRI HBR,Tech Reviewed (G) Suboptimal centering and FOV,"Synthetic example: repeat education recommended for centering on follow-up exams.","Provider, Sample B","Reviewer, Sample B [1002]"
+XR Chest 2 Views,"Morgan, Riley",IMG DIAG UNCW,Tech Reviewed (T) Other limitation not addressed above,"Synthetic example: mild positioning note recorded for workflow demonstration.","Provider, Sample C","Reviewer, Sample C [1003]"
