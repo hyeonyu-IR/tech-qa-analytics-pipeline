@@ -23,5 +23,12 @@ data/raw/
 data/raw_new/
 data/raw_examples/*.csv
 data/raw_examples/*.xlsx
+backups/
 outputs/
+reporting/**/*.pdf
+reporting/**/*.png
+reporting/**/*.csv
+reporting/**/*.xlsx
+tech_qa_master.csv
+tech_qa_master.xlsx
 master.ipynb
